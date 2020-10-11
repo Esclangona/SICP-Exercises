@@ -1,4 +1,4 @@
-;Square Roots by Newton's Method 
+;1.1.7 Example Square Roots by Newton's Method 
 
 ;returns avarage of given numbers
 (define (avarage x y) (/(+ x y) 2))
